@@ -1,0 +1,15 @@
+---
+title: "Getting And Cleaning Data"
+---
+
+
+## Repository Contents 
+
+This repo contains four following files:
+
+* run_analysis.R - The script written to load and clean the original data and save the final tidy data.
+* CodeBook.Rmd - Document that describes the variables.
+* tidy_UCI_data.csv - Saved final data set for reference.
+* README.Rmd - It's this file :)
+
+
